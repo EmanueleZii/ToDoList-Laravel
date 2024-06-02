@@ -5,16 +5,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>To Do List Application</title>
         <!-- Fonts -->
-        <link rel="stylesheet" href="../css/app.css">
+        <link href="{{ asset('css/style.css') }}" rel="stylesheet">
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     </head>
-    <style>
-        .footer {
-            margin-top: 140px !important;
-        }
-    </style>
+  
     <body>
     <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">

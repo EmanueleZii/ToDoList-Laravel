@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <title>APP NAME</title>
+        <title>To Do List Application</title>
     <style>
         body {
             font-size: .875rem;
@@ -137,7 +137,7 @@
 </head>
 <body>
 <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
-    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="/">APP NAME</a>
+    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="/">To Do List Application</a>
 </nav>
 
 <div class="container-fluid">
@@ -199,5 +199,6 @@
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous">
 </script>
+
 </body>
 </html>
